@@ -1,2 +1,2 @@
 # hello-world
-Exercicio de casa
+Exercicio de casa, primeira aula setup de ferramentas.
